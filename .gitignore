@@ -1,0 +1,60 @@
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+cache/
+data/
+target/
+data/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+package-lock.json
+
+# Eclipse Core
+.project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# External tool builders
+.externalToolBuilders/
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+**/*.log
+
+# IntelliJIdea
+*.iml
+.idea
+/logs/
+
+frontend/cypress/reports/**/*.xml
+*.mp4
+
+# Alternative configurations for external test systems
+application-*.yml
+
+# Karma test results
+frontend/reports/**
