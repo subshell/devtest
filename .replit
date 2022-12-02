@@ -1,2 +1,2 @@
-language = "java10"
+language = "java17"
 run = "mvn test"
